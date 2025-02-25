@@ -1,0 +1,6 @@
+@PORTALE_SPESE_GATEWAY_HostAddress = http://localhost:5212
+
+GET {{PORTALE_SPESE_GATEWAY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
